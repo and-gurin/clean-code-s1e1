@@ -10,18 +10,18 @@ body {
     display: block;
     text-align: right;
 }
-.top-element img {
+.top-elem img {
     width: 100%;
 }
-.top-element .top-element__link {
+.top-elem .top-elem__link {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-    .top-element { text-align: center;
+    .top-elem { text-align: center;
 }
 }
-.center-element {
+.center-elem {
     display: block;
     width: 500px;
     margin: 0 auto 0;
